@@ -1,0 +1,256 @@
+body{
+	margin: 30px auto;
+	 width: 15.6rem;
+}
+header{
+ width: 16rem;
+  height: 7.125rem;
+position: relative;
+overflow: hidden;
+}
+.banner{
+ width: 16rem;
+  height: 7.125rem;
+  position: absolute;
+  top: 0;left: 0;
+}
+.banner img{
+ width: 16rem;
+  height: 7.125rem;
+  position: absolute;
+  top: 0;left: 0;
+}
+.zhezhao{
+ width: 16rem;
+ height:2.25rem;
+background-image: linear-gradient(to bottom, rgba(0, 0, 0, .5),rgba(255, 255, 255, .3));
+position: absolute;
+  top:0;left: 0;
+}
+.soso{
+	position: absolute;
+	top: 0.375rem;
+	left: 2.125rem;
+	width: 11.375rem;
+  height: 1.5rem;
+}
+.soso img{
+	width: 11.375rem;
+  height: 1.5rem;
+}
+.fenle{
+	position: absolute;
+	top:0.375rem;left: 0.5rem;
+	 width: 1.1rem;
+   height: 1.5rem;
+   overflow: hidden;
+}
+.fenle img{
+	 width: 1.1rem;
+   height: 0.775rem;
+}
+.zifen{
+	position: absolute;
+	top:0.775rem;left: 0;
+	width: 1.1rem;
+   height: 0.5rem;
+	font-family: '微软雅黑';
+	font-size: 0.5rem;
+	color: #fff;
+}
+.guowoche{
+	position: absolute;
+	top:0.375rem;right: 0.5rem;
+	 width: 1.15rem;
+  height: 1.55rem;
+}
+.guowoche img{
+	width: 1.15rem;
+  height: 1.55rem;
+}
+.dian{
+	position: absolute;
+	right: 0.675rem;bottom:0.4rem ;
+	 width: 5rem;
+  height: 0.5rem;
+}
+.dian li{
+width: 0.5rem;
+  height: 0.5rem;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  float: left;
+  margin-right: 0.15rem;
+}
+.donr{
+	background-color: #fff;
+}
+figure{
+	margin-top: 0.25rem;
+	margin-left: 0.175rem;
+	 width: 15.6rem;
+  height: 8.325rem;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, .3);
+}
+.cp6{
+	width: 15.6rem;
+  height: 8.325rem;
+}
+.cp6 img{
+	width: 15.6rem;
+  height: 8.325rem;
+}
+.qqzd{
+	margin-top:  0.625rem;
+	margin-left: 0.375rem;
+ width: 15.6rem;
+  height: 10.3rem;
+}
+.tiao{
+	 width: 0.15rem;
+  height: 0.6rem;
+  background-color: blue;
+}
+.zqqzd{
+	font-size:0.6rem;
+	margin-left:1.025rem ;
+	margin-top: -0.6rem;
+}
+
+.qleft{
+		float: left;
+	margin-left: 0.95rem;
+	 width: 7.675rem;
+   height: 8.6rem;
+
+}
+.lname{
+	margin-top: 1.25rem;
+	 width: 5.6rem;
+  height: 0.55rem;
+  font-size: 0.55rem;
+  font-family: '微软雅黑';
+}
+.ljia{
+	margin-top: 0.45rem;
+  width: 2.375rem;
+  height: 0.95rem;
+color: #FF3F00;
+font-size: 0.75rem;
+}
+.limg{
+	margin-top: 0.725rem;
+	 width: 5.9rem;
+  height: 4.125rem;
+}
+.limg img{
+	 width: 5.9rem;
+  height: 4.125rem;
+}
+.qright{
+	margin-right: 0.075rem;
+	margin-top: -8.6rem;
+	float: right;
+	 width: 7.85rem;
+  height: 8.625rem;
+}
+.qrtop{
+	border: 1px solid rgba(0, 0, 0, .4);
+	width: 7.85rem;
+  height: 4.25rem;
+}
+.qrtop img{
+	width: 7.85rem;
+  height: 4.25rem;
+}
+.qrbottom{
+	border: 1px solid rgba(0, 0, 0, .4);
+	 width: 7.85rem;
+  height: 4.4rem;
+}
+.qrbottom img{
+	 width: 7.85rem;
+   height: 4.4rem;
+}
+.mms{
+	margin-left: -0.1rem;
+margin-top: 9rem;
+	 width: 15.5rem;
+  height: 2.5rem;
+}
+.mms img{
+	 width: 15.5rem;
+  height: 2.5rem;
+}
+.dxns{
+	position: relative;
+	margin-top:3.25rem;
+  width: 15.6rem;
+  height: 10.3rem;
+}
+.zidxns{
+	font-size:0.6rem;
+	margin-left:1.025rem ;
+	margin-top: -0.6rem;
+}
+.dtiao{
+	margin-left: 0.4rem;
+	 width: 0.15rem;
+  height: 0.6rem;
+  background-color: blue;
+}
+.dxns img{
+	margin-left: 0.2rem;
+	margin-top: 1rem;
+	width: 15.6rem;
+  height: 10.3rem;
+}
+.ei{
+    width: 15.5rem;
+    height: 2.5rem;
+}
+.ei img{
+	margin-top: 2rem;
+	    width: 15.5rem;
+    height: 2.5rem;
+    margin-left: 0.2rem;
+}
+
+.mdd{
+	position: relative;
+	margin-top:3.25rem;
+  width: 15.6rem;
+  height: 10.3rem;
+}
+.mtiao{
+	margin-left: 0.4rem;
+	 width: 0.15rem;
+  height: 0.6rem;
+  background-color: blue;
+}
+.midxns{
+	font-size:0.6rem;
+	margin-left:1.025rem ;
+	margin-top: -0.6rem;
+}
+.me{
+	  width: 15.5rem;
+    height: 10.3rem;
+}
+.me img{
+	margin-top: 1rem;
+	    width: 15.5rem;
+      height: 10.3rem;
+    margin-left: 0.2rem;
+}
+.di{
+	 width: 15.5rem;
+      height: 2.97rem;
+}
+.di img{
+	margin-top: 2rem;
+	width: 15.5rem;
+      height: 2.97rem;
+      margin-left: 0.2rem;
+}
